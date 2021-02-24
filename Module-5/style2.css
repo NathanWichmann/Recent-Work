@@ -1,0 +1,36 @@
+
+
+h1 {text-align: center}
+    #first {color:red}
+    #second {color:blue}
+    #third {color:green}
+
+
+    #forth {font-size: 100px}
+    #fifth {font-size: 10px}
+
+
+    #sixth {text-align: center}
+
+
+    #seventh {font-style:bold}
+    
+
+    #eight {font-style: italic}
+
+
+    #ninth {font-size: 100px;color:orange;font-style:bold;}
+
+
+    
+
+    .styledFont {color:green}
+    
+    #styledImage
+      {
+        border-style: solid;
+        border-width: 10px;;
+        border-color:orange
+      }
+
+    
